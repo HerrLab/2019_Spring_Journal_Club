@@ -1,24 +1,35 @@
-1. Carroll 1988 fungal endophytes in stems and leaves - from latent pathogen to mutualistic symbiont
-2. Douglas 2007 conflict cheats and the persistence of symbioses REVIEW
-3. Fesel & Zuccaro 2016 dissecting endophytic lifestyle along the parasitism-mutualism continuum REVIEW
-4. Freeman & Rodreguez 1993 genetic conversion of a fungal plant pathogen to a nonpathogenic endophytic mutualist
-5. Hall, R. A. & Noverr, M. C. Fungal interactions with the human host: exploring the spectrum of symbiosis. Current Opinion in Microbiology 40, 58–64 (2017).
-6. Hardoim et al 2015 the hidden world within plants ecological and evolutionary considerations for defining functioning of microbial endophytes
-7. Hibbett, D. S., Gilbert, L.-B. & Donoghue, M. J. Evolutionary instability of ectomycorrhizal symbioses in basidiomycetes. Nature 407, 506–508 (2000).
-8. Johnson, N. C., Graham, J. H. & Smith, F. A. Functioning of mycorrhizal associations along the mutualism--parasitism continuum. New Phytol. 135, 575–585 (1997).
-9. Jones, M. D. & Smith, S. E. Exploring functional definitions of mycorrhizas: are mycorrhizas always mutualisms? Canadian Journal of Botany 82, 1089–1109 (2004).
-10. Kobayashi & Crouch 2009 bacterial fungal interactions - from pathogens to mutualistic endosymbionts REVIEW
-11. Kohler et al 2015 convergent losses of decay mechanisms and rapid turnover of symbiosis genes in mycorrhizal mutualists
-12. Koide, R. T., Sharda, J. N., Herr, J. R. & Malcolm, G. M. Ectomycorrhizal fungi and the biotrophy-saprotrophy continuum. New Phytologist 178, 230–233 (2008).
-13. Lofgren et al 2018 fusarium graminearum - pathogen or endophyte of North American grasses
-14. Melnyk, R. A. & Haney, C. H. Plant Pathology: Plasmid-powered evolutionary transitions. eLife 6, e33383 (2017).
-15. Newton et al 2010 pathogenesis parasitism and mutualism in the trophic space of microbe-plant interactions REVIEW
-16. Parker, B. J., Hrček, J., McLean, A. H. & Godfray, H. C. J. Genotype specificity among hosts, pathogens, and beneficial microbes influences the strength of symbiont-mediated protection. Evolution 71, 1222–1231 (2017).
-17. Redman et al 2001 fungal symbiosis from mutualism to parasitism - who controls the outcome - host or invader
-18. Savory, E. A. et al. Evolutionary transitions between beneficial and phytopathogenic Rhodococcus challenge disease management. eLife 6, (2017).Baldrian & Kohout 2017 interactions of saprotrophic fungi with tree roots can we observe the emergence of novel ectomycorrhizal fungi
-19. Selosse et al 2018 time to re-think fungal ecology - fungal ecological niches are often prejudged COMMENTARY
-20. Smith et al 2017 growing evidence for facultative biotrophy in saprotrophic fungi data from microcosm tests with 201 species of wood-decay basidiomycetes
-21. Soto et al 2009 Mutualism versus pathogenesis - the give-and-take in plant-bacteria interactions
-22. Soto et al 2011 pathogenic and mutualistic plant-bacteria interactions - ever increasing similarities REVIEW
-23. Tuovinen et al 2015 no support for occurence of free-living Cladonia mycobionts in dead wood
-24. Wedin et al 2004 Saprotrophy and lichenization as options for the same fungal species on different substrata
+1. Baetu 2012 defining species a multi-level approach.pdf
+2. Booth et al 2016 the modern synthesis in the light of microbial genomics REVIEW.pdf
+3. Brogaard 2004 Species As Individuals.pdf
+4. Doolittle & Zhaxybayeva 2009 on the origin of prokaryotic species.pdf
+5. Doolittle & Zhaxybayeva 2010 metagenomics and the units of biological organization.pdf
+6. Dupre 2001 in defence of classification.pdf
+7. Ellis & Wolf 2010 teaching species.pdf
+8. Ellis 2011 the problem with the species problem.pdf
+9. Gaston 1991 how large is a species geogrpahic range COMMENTARY.pdf
+10. Hall & Katz 2011 On The Nature Of Species Insights from Paramecium and other ciliates.pdf
+11. Haveman 2013 freakish patterns species and species concepts in apomicts.pdf
+12. Hendry et al 2000 Questioning Species Realities.pdf
+13. Hey 2001 the mind of the species problem OPINION.pdf
+14. Hey 2006 on the failure of modern species concepts OPINION.pdf
+15. Hey et al 2003 Understanding and confronting species uncertainty in biology and conservation REVIEW.pdf
+16. Kutschera 2004 species concepts leeches versus bacteria.pdf
+17. Leliaert et al 2014 DNA based species delimitation in algae.pdf
+18. Markolf et al 2011 on species delimitation yet another lemur species or just genetic variation.pdf
+19. Mayr 2001 Wus genic view of speciation COMMENTARY.pdf
+20. Meiri & Mace 2007 new taxonomy and the origin of species COMMENTARY.pdf
+21. Millstein 2009 Populations As Individuals.pdf
+22. Morgan & Pitts 2008 evolution without species the case of mosaic bacteriophages.pdf
+23. Nathen & Cracraft YEAR the nature of species in evolution BOOK CHAPTER.pdf
+24. Pigliucci 2003 species as family resemblance concepts the dis-solution of the species problem.pdf
+25. Pusic et al 2017 what do biologists make of the species problem.pdf
+26. Reydon2008_Article_SpeciesInThreeAndFourDimension.pdf
+27. Ruffing et al 2002 an introduction to species concepts and speciciation of fishes.pdf
+28. Saikia et al 2008 what is a species an endless debate.pdf
+29. Sluys & Hazevoet 1999 pluralism in species concepts dividing nature at its diverse joints REVIEW.pdf
+30. Weiss 2011 the evolution of evolution reconciling the problem of stability.pdf
+31. Winker et al 2007 species-concept debates need not impede progress in science or conservation.pdf
+32. Yang & Zhou 2010 new insights in the species problem REVIEW.pdf
+33. Yin 2013 to define life and species as to demarcate the international date line.pdf
+34. Zachos 2016 Species Concepts In Biology BOOK.pdf
+35. Zinner & Roos 2014 so what is a species anyway a primatological perspective COMMENTARY.pdf
