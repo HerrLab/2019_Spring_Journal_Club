@@ -4,7 +4,7 @@ Special Topics in Plant Pathology PLPT892 Section 010 - SPRING 2019
 
 This is the public repository for our Spring 2019 journal club.
 
-## **TOPIC: Just What Is A SPECIES?**
+## **TOPIC: Just What Is A SPECIES? The concept of species in the age of metagenomics**
 
 [The Canvas location for the course is here](https://canvas.unl.edu/courses/). You will need to be registered for the course via UNL to view this webpage.
 
