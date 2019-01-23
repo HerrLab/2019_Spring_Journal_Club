@@ -13,26 +13,26 @@ Our current reading list is located here: [text](https://github.com/HerrLab/2019
 ## **Meeting Schedule**
 
 **DATE** | **ACTIVITY** | **LOCATION** | **TIME**
-:-----:|:-----:|:-----:|:-----:|:-----:
-January 16 | Week 1 | Online Discussion | 2 to 3 pm
-January 23 | Week 2 | Beadle First Floor East Conference Table | 2 to 3 pm
-January 30 | Week 3 | Plant Sciences Room 406 | TBA
-February 6 | Week 4 | Plant Sciences Room 406 | TBA
-February 13 | Week 5 | Plant Sciences Room 406 | TBA
-February 20 | Week 6 | Plant Sciences Room 406 | TBA
-February 27 | Week 7 | Plant Sciences Room 406 | TBA
-March 6 | Week 8 | Plant Sciences Room 406 | TBA
-March 13 | Week 9 | Plant Sciences Room 406 | TBA
+:-----:|:-----:|:-----:|:-----:
+January 16 | Organization Meeting | Online Discussion | 2 to 3 pm
+January 23 | Week 1 | Beadle First Floor East Side Conference Table | 2 to 3 pm
+January 30 | Week 2 | Plant Sciences Room 406 | TBA
+February 6 | Week 3 | Plant Sciences Room 406 | TBA
+February 13 | Week 4 | Plant Sciences Room 406 | TBA
+February 20 | Week 5 | Plant Sciences Room 406 | TBA
+February 27 | Week 6 | Plant Sciences Room 406 | TBA
+March 6 | Week 7 | Plant Sciences Room 406 | TBA
+March 13 | Week 8 | Plant Sciences Room 406 | TBA
 March 20 | SPRING BREAK | NA | NA
-March 27 | Week 10 | Plant Sciences Room 406 | TBA
-April 3 | Week 11 | Plant Sciences Room 406 | TBA
-April 10 | Week 12 | Plant Sciences Room 406 | TBA
-April 17 | Week 13 | Plant Sciences Room 406 | TBA
-April 24 | Week 14 - Course Wrap Up | Plant Sciences Room 406 | TBA
+March 27 | Week 9 | Plant Sciences Room 406 | TBA
+April 3 | Week 10 | Plant Sciences Room 406 | TBA
+April 10 | Week 11 | Plant Sciences Room 406 | TBA
+April 17 | Week 12 - Course Wrap Up | Writing Retreat | TBA
+April 24 | Week 13 - Course Wrap Up | Writing Retreat | TBA
 
 ## **Schedule and Readings**
 
-### **WEEK 2**
+### **WEEK 1**
 
 AGENDA:
 1. Meet & Greet
@@ -44,17 +44,19 @@ AGENDA:
 READINGS:
 1. [Mayr 1996 what is a species and what is not](https://github.com/HerrLab/2019_Spring_Journal_Club/blob/master/READINGS/Mayr%201996%20what%20is%20a%20species%20and%20what%20is%20not.pdf)
 
-### **WEEK 2**
-TOPIC: 
+### **WEEK 3**
 
 AGENDA:
 1. Finalize paper schedule
 2. Discussion
 
 Readings:
-1. 
-2. 
-3. 
+1. [Hey 2001 the mind of the species problem](https://github.com/HerrLab/2019_Spring_Journal_Club/blob/master/READINGS/Hey%202001%20the%20mind%20of%20the%20species%20problem%20OPINION.pdf)
+2. [Hey 2006 on the failure of modern species concepts](https://github.com/HerrLab/2019_Spring_Journal_Club/blob/master/READINGS/Hey%202006%20on%20the%20failure%20of%20modern%20species%20concepts%20OPINION.pdf)
+
+Supplemental Readings:
+1. [Hey et al 2003 Understanding and confronting species uncertainty in biology and conservation](https://github.com/HerrLab/2019_Spring_Journal_Club/blob/master/READINGS/Hey%20et%20al%202003%20Understanding%20and%20confronting%20species%20uncertainty%20in%20biology%20and%20conservation%20REVIEW.pdf)
+
 
 ### **WEEK 3**
 TOPIC: 
