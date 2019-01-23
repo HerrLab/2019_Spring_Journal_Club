@@ -12,43 +12,44 @@ Our current reading list is located here: [text](https://github.com/HerrLab/2019
 
 ## **Meeting Schedule**
 
-**DATE** | **ACTIVITY** | **LOCATION** | **TIME** | **PRESENTER**
+**DATE** | **ACTIVITY** | **LOCATION** | **TIME**
 :-----:|:-----:|:-----:|:-----:|:-----:
-January 16 | Week 1 | Plant Sciences Room 406 | TBA | TBA
-January 23 | Week 2 | Plant Sciences Room 406 | TBA | TBA
-January 30 | Week 3 | Plant Sciences Room 406 | TBA | TBA
-February 6 | Week 4 | Plant Sciences Room 406 | TBA | TBA
-February 13 | Week 5 | Plant Sciences Room 406 | TBA | TBA
-February 20 | Week 6 | Plant Sciences Room 406 | TBA | TBA
-February 27 | Week 7 | Plant Sciences Room 406 | TBA | TBA
-March 6 | Week 8 | Plant Sciences Room 406 | TBA | TBA
-March 13 | Week 9 | Plant Sciences Room 406 | TBA | TBA
-March 20 | SPRING BREAK | NA | NA | NA
-March 27 | Week 10 | Plant Sciences Room 406 | TBA | TBA
-April 3 | Week 11 | Plant Sciences Room 406 | TBA | TBA
-April 10 | Week 12 | Plant Sciences Room 406 | TBA | TBA
-April 17 | Week 13 | Plant Sciences Room 406 | TBA | TBA
-April 24 | Week 14 - Course Wrap Up | Plant Sciences Room 406 | TBA | TBA
+January 16 | Week 1 | Online Discussion | 2 to 3 pm
+January 23 | Week 2 | Beadle First Floor East Conference Table | 2 to 3 pm
+January 30 | Week 3 | Plant Sciences Room 406 | TBA
+February 6 | Week 4 | Plant Sciences Room 406 | TBA
+February 13 | Week 5 | Plant Sciences Room 406 | TBA
+February 20 | Week 6 | Plant Sciences Room 406 | TBA
+February 27 | Week 7 | Plant Sciences Room 406 | TBA
+March 6 | Week 8 | Plant Sciences Room 406 | TBA
+March 13 | Week 9 | Plant Sciences Room 406 | TBA
+March 20 | SPRING BREAK | NA | NA
+March 27 | Week 10 | Plant Sciences Room 406 | TBA
+April 3 | Week 11 | Plant Sciences Room 406 | TBA
+April 10 | Week 12 | Plant Sciences Room 406 | TBA
+April 17 | Week 13 | Plant Sciences Room 406 | TBA
+April 24 | Week 14 - Course Wrap Up | Plant Sciences Room 406 | TBA
 
 ## **Schedule and Readings**
 
-### **WEEK 1**
+### **WEEK 2**
+
 AGENDA:
 1. Meet & Greet
 2. What we plan to get out of the readings
 3. How I would like to proceed
-4. Schedule of participants
+4. A little background on today's reading
+5. Discussion
 
 READINGS:
-1. 
-2. 
+1. [Mayr 1996 what is a species and what is not](https://github.com/HerrLab/2019_Spring_Journal_Club/blob/master/READINGS/Mayr%201996%20what%20is%20a%20species%20and%20what%20is%20not.pdf)
 
 ### **WEEK 2**
 TOPIC: 
 
 AGENDA:
-1. Finalize schedule of participants & paper schedule
-2. Discuss Papers
+1. Finalize paper schedule
+2. Discussion
 
 Readings:
 1. 
