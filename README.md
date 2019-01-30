@@ -14,9 +14,9 @@ Our current reading list is located here: [text](https://github.com/HerrLab/2019
 
 **DATE** | **ACTIVITY** | **LOCATION** | **TIME**
 :-----:|:-----:|:-----:|:-----:
-January 16 | Organization Meeting | Online Discussion | 2 to 3 pm
-January 23 | Week 1 | Beadle First Floor East Side Conference Table | 2 to 3 pm
-January 30 | Week 2 | Plant Sciences Room 406 | TBA
+~~January 16~~ | ~~Organization Meeting~~ | ~~Online Discussion~~ | ~~2 to 3 pm~~
+~~January 23~~ | ~~Week 1~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~2 to 3 pm~~
+~~January 30~~ | ~~Week 2~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~3 to 4 pm~~
 February 6 | Week 3 | Plant Sciences Room 406 | TBA
 February 13 | Week 4 | Plant Sciences Room 406 | TBA
 February 20 | Week 5 | Plant Sciences Room 406 | TBA
@@ -59,26 +59,20 @@ Supplemental Readings:
 
 
 ### **WEEK 3**
-TOPIC: 
 
 AGENDA:
-1. Any Announcements?
-2. Discuss Papers
+1. Discuss Paper
 
 Readings:
-1. 
-2. 
+1. [de Quiroz 2005 Mayr and the modern concept of species](https://github.com/HerrLab/2019_Spring_Journal_Club/blob/master/READINGS/de%20Quiroz%202005%20Mayr%20and%20the%20modern%20concept%20of%20species.pdf)
 
 ### **WEEK 4**
-TOPIC: 
 
 AGENDA:
-1. Any Announcements?
-2. Discuss
+1. Discuss Paper
 
 Readings:
 1. 
-2. 
 
 ### **WEEK 5**
 TOPIC: 
