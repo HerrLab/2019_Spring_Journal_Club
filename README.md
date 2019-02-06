@@ -72,7 +72,7 @@ AGENDA:
 1. Discuss Paper
 
 Readings:
-1. [Adams 2001 the species delimitation uncertainty principle](https://github.com/HerrLab/2019_Spring_Journal_Club/blob/master/READINGS/Adams%202001%20the%20species%20delimitation%20uncertainty%20principle.pdf)
+1. [Samson & Varga 2009 what is a species in Aspergillus](https://github.com/HerrLab/2019_Spring_Journal_Club/blob/master/READINGS/Samson%20%26%20Varga%202009%20what%20is%20a%20species%20in%20Aspergillus.pdf)
 
 ### **WEEK 5**
 TOPIC: 
@@ -182,8 +182,11 @@ AGENDA:
 2. Josh wraps things up and we discuss our paper
 
 
-### On Deck (Maybe we won't read, but are of interest to the group):
-1. 
+### Supplemental Readings
+
+Papers of interest to the group and/or papers we started to discuss but decided to not put on the schedule of readings for sake of time:
+
+1. [Adams 2001 the species delimitation uncertainty principle](https://github.com/HerrLab/2019_Spring_Journal_Club/blob/master/READINGS/Adams%202001%20the%20species%20delimitation%20uncertainty%20principle.pdf)
 2. 
 3. 
 
