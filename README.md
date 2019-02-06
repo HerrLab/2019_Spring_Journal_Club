@@ -75,15 +75,12 @@ Readings:
 1. [Samson & Varga 2009 what is a species in Aspergillus](https://github.com/HerrLab/2019_Spring_Journal_Club/blob/master/READINGS/Samson%20%26%20Varga%202009%20what%20is%20a%20species%20in%20Aspergillus.pdf)
 
 ### **WEEK 5**
-TOPIC: 
-
 AGENDA:
-1. Any Announcements?
-2. Discuss
+1. Discuss Paper
 
 Readings:
 1. 
-2. 
+
 ### **WEEK 6**
 TOPIC: 
 
