@@ -17,9 +17,9 @@ Our current reading list is located here: [text](https://github.com/HerrLab/2019
 ~~January 16~~ | ~~Organization Meeting~~ | ~~Online Discussion~~ | ~~2 to 3 pm~~
 ~~January 23~~ | ~~Week 1~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~2 to 3 pm~~
 ~~January 30~~ | ~~Week 2~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~3 to 4 pm~~
-February 6 | Week 3 | Beadle First Floor East Side Conference Table | 1 to 2 pm
-February 13 | Week 4 | Plant Sciences Room 406 | TBA
-February 20 | Week 5 | Plant Sciences Room 406 | TBA
+~~February 6~~ | ~~Week 3~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~1 to 2 pm~~
+~~February 13~~ | ~~Week 4~~ | ~~Plant Sciences Room 406~~ | ~~TBA~~
+~~February 20~~ | ~~Week 5~~ | ~~Plant Sciences Room 406~~ | ~~TBA~~
 February 27 | Week 6 | Plant Sciences Room 406 | TBA
 March 6 | Week 7 | Plant Sciences Room 406 | TBA
 March 13 | Week 8 | Plant Sciences Room 406 | TBA
