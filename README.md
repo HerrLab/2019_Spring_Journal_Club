@@ -17,23 +17,22 @@ Our current reading list is located here: [text](https://github.com/HerrLab/2019
 ~~January 16~~ | ~~Organization Meeting~~ | ~~Online Discussion~~ | ~~2 to 3 pm~~
 ~~January 23~~ | ~~Week 1~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~2 to 3 pm~~
 ~~January 30~~ | ~~Week 2~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~3 to 4 pm~~
-February 6 | Week 3 | Beadle First Floor East Side Conference Table | 1 to 2 pm
-February 13 | Week 4 | Plant Sciences Room 406 | TBA
-February 20 | Week 5 | Plant Sciences Room 406 | TBA
-February 27 | Week 6 | Plant Sciences Room 406 | TBA
-March 6 | Week 7 | Plant Sciences Room 406 | TBA
-March 13 | Week 8 | Plant Sciences Room 406 | TBA
+~~February 6~~ | ~~Week 3~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~1 to 2 pm~~
+~~February 13~~ | ~~Week 4~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~2 to 3 pm~~
+~~February 20~~ | ~~Week 5~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~2 to 3 pm~~
+~~February 27~~ | ~~Week 6~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~SNOW DAY~~
+March 6 | Week 7 | Beadle First Floor East Side Conference Table | 2 to 3 pm?
+March 13 | Week 8 | Beadle First Floor East Side Conference Table | TBA
 March 20 | SPRING BREAK | NA | NA
-March 27 | Week 9 | Plant Sciences Room 406 | TBA
-April 3 | Week 10 | Plant Sciences Room 406 | TBA
-April 10 | Week 11 | Plant Sciences Room 406 | TBA
+March 27 | Week 9 | Beadle First Floor East Side Conference Table | TBA
+April 3 | Week 10 | Beadle First Floor East Side Conference Table | TBA
+April 10 | Week 11 | Beadle First Floor East Side Conference Table | TBA
 April 17 | Week 12 - Course Wrap Up | Writing Retreat | TBA
 April 24 | Week 13 - Course Wrap Up | Writing Retreat | TBA
 
 ## **Schedule and Readings**
 
 ### **WEEK 1**
-
 AGENDA:
 1. Meet & Greet
 2. What we plan to get out of the readings
@@ -45,7 +44,6 @@ READINGS:
 1. [Mayr 1996 what is a species and what is not](https://github.com/HerrLab/2019_Spring_Journal_Club/blob/master/READINGS/Mayr%201996%20what%20is%20a%20species%20and%20what%20is%20not.pdf)
 
 ### **WEEK 2**
-
 AGENDA:
 1. Finalize paper schedule
 2. Discussion
@@ -59,65 +57,39 @@ Supplemental Readings:
 
 
 ### **WEEK 3**
-
 AGENDA:
 1. Discuss Paper
 
 Readings:
 1. [de Quiroz 2005 Mayr and the modern concept of species](https://github.com/HerrLab/2019_Spring_Journal_Club/blob/master/READINGS/de%20Quiroz%202005%20Mayr%20and%20the%20modern%20concept%20of%20species.pdf)
 
-### **WEEK 4**
+### **WEEK 4 - Cancelled - Meeting with Seminar Speaker**
 
+### **WEEK 5 - Postponed - University Closed due to Nnow**
+
+### **WEEK 6**
 AGENDA:
 1. Discuss Paper
 
 Readings:
 1. [Samson & Varga 2009 what is a species in Aspergillus](https://github.com/HerrLab/2019_Spring_Journal_Club/blob/master/READINGS/Samson%20%26%20Varga%202009%20what%20is%20a%20species%20in%20Aspergillus.pdf)
 
-### **WEEK 5**
+### **WEEK 7**
 AGENDA:
 1. Discuss Paper
 
 Readings:
-1. 
-
-### **WEEK 6**
-TOPIC: 
-
-AGENDA:
-1. Announcements?
-2. Discuss Papers
-
-Readings:
-1. 
-2. 
-
-### **WEEK 7**
-TOPIC: 
-
-AGENDA:
-1. Announcements?
-2. Discuss Papers
-
-Readings:
-1. 
-2. 
+1. [Doolittle & Zhaxybayeva 2009 on the origin of prokaryotic species](https://github.com/HerrLab/2019_Spring_Journal_Club/blob/master/READINGS/Doolittle%20%26%20Zhaxybayeva%202009%20on%20the%20origin%20of%20prokaryotic%20species.pdf)
 
 ### **WEEK 8**
-TOPIC: 
-
 AGENDA:
-1. Announcements?
-2. Discuss Papers
-3. Vent about things
+1. Discuss Papers
 
 Readings:
-1. 
-2. 
+1. [Doolittle & Zhaxybayeva 2010 metagenomics and the units of biological organization](https://github.com/HerrLab/2019_Spring_Journal_Club/blob/master/READINGS/Doolittle%20%26%20Zhaxybayeva%202010%20metagenomics%20and%20the%20units%20of%20biological%20organization.pdf)
+2. [Doolittle 2012 population genomics how bacterial species form and why they don't exist](https://github.com/HerrLab/2019_Spring_Journal_Club/blob/master/READINGS/Doolittle%202012%20population%20genomics%20how%20bacterial%20species%20form%20and%20why%20they%20don't%20exist.pdf)
 
-### **WEEK 9**
-TOPIC: 
-
+### **WEEK 9** 
 AGENDA:
 1. Announcements?
 2. Discuss Paper
