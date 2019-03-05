@@ -19,8 +19,8 @@ Our current reading list is located here: [text](https://github.com/HerrLab/2019
 ~~January 30~~ | ~~Week 2~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~3 to 4 pm~~
 ~~February 6~~ | ~~Week 3~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~1 to 2 pm~~
 ~~February 13~~ | ~~Week 4~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~2 to 3 pm~~
-~~February 20~~ | ~~Week 5~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~2 to 3 pm~~
-~~February 27~~ | ~~Week 6~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~SNOW DAY~~
+~~February 20~~ | ~~Week 5~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~SNOW DAY~~
+~~February 27~~ | ~~Week 6~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~2 to 3 pm~~
 March 6 | Week 7 | Beadle First Floor East Side Conference Table | 2 to 3 pm?
 March 13 | Week 8 | Beadle First Floor East Side Conference Table | TBA
 March 20 | SPRING BREAK | NA | NA
