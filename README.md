@@ -93,34 +93,20 @@ Readings:
 
 ### **WEEK 10** 
 AGENDA:
-1. Announcements?
-2. Discuss Paper
+1. Discuss Paper
 
 Readings:
-1. 
+1. TBA
 
 ### **WEEK 11**
 TOPIC: 
 
 AGENDA:
-1. Announcements?
-2. Discuss Papers
+1. Discuss Papers
 3. Go over manuscript outline and writing duties
 
 Readings:
-1. 
-2. 
-
-### **WEEK 11**
-TOPIC: 
-
-AGENDA:
-1. Announcements?
-2. Discuss Papers
-
-Readings:
-1. 
-2. 
+1. TBA
 
 ### Supplemental Readings
 
