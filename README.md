@@ -21,14 +21,14 @@ Our current reading list is located here: [text](https://github.com/HerrLab/2019
 ~~February 13~~ | ~~Week 4~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~2 to 3 pm~~
 ~~February 20~~ | ~~Week 5~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~SNOW DAY~~
 ~~February 27~~ | ~~Week 6~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~2 to 3 pm~~
-March 6 | Week 7 | Beadle First Floor East Side Conference Table | 2 to 3 pm?
-March 13 | Week 8 | Beadle First Floor East Side Conference Table | TBA
-March 20 | SPRING BREAK | NA | NA
-March 27 | Week 9 | Beadle First Floor East Side Conference Table | TBA
-April 3 | Week 10 | Beadle First Floor East Side Conference Table | TBA
-April 10 | Week 11 | Beadle First Floor East Side Conference Table | TBA
-April 17 | Week 12 - Course Wrap Up | Writing Retreat | TBA
-April 24 | Week 13 - Course Wrap Up | Writing Retreat | TBA
+~~March 6~~ | ~~Week 7~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~2 to 3 pm~~
+~~March 13~~ | ~~Week 8~~ | ~~Asilomar~~ | ~~NONE~~
+~~March 20~~ | ~~SPRING BREAK~~ | ~~NA~~ | ~~NA~~
+March 27 | Week 9 | Beadle First Floor East Side Conference Table | 2 to 3 pm
+April 3 | Week 10 | Beadle First Floor East Side Conference Table | 2 to 3 pm
+April 10 | Week 11 | Beadle First Floor East Side Conference Table | 2 to 3 pm
+April 17 | Week 12 - Course Wrap Up | Writing Retreat | 2 to 3 pm
+April 24 | Week 13 - Course Wrap Up | Writing Retreat | 2 to 3 pm
 
 ## **Schedule and Readings**
 
@@ -63,9 +63,9 @@ AGENDA:
 Readings:
 1. [de Quiroz 2005 Mayr and the modern concept of species](https://github.com/HerrLab/2019_Spring_Journal_Club/blob/master/READINGS/de%20Quiroz%202005%20Mayr%20and%20the%20modern%20concept%20of%20species.pdf)
 
-### **WEEK 4 - Cancelled - Meeting with Seminar Speaker**
+### **WEEK 4 - Meeting with Seminar Speaker Instead**
 
-### **WEEK 5 - Postponed - University Closed due to Nnow**
+### **WEEK 5 - University Closed due to snow**
 
 ### **WEEK 6**
 AGENDA:
@@ -81,7 +81,9 @@ AGENDA:
 Readings:
 1. [Doolittle & Zhaxybayeva 2009 on the origin of prokaryotic species](https://github.com/HerrLab/2019_Spring_Journal_Club/blob/master/READINGS/Doolittle%20%26%20Zhaxybayeva%202009%20on%20the%20origin%20of%20prokaryotic%20species.pdf)
 
-### **WEEK 8**
+### **WEEK 8 - At Fungal Genetics Meeting**
+
+### **WEEK 9**
 AGENDA:
 1. Discuss Papers
 
@@ -89,7 +91,7 @@ Readings:
 1. [Doolittle & Zhaxybayeva 2010 metagenomics and the units of biological organization](https://github.com/HerrLab/2019_Spring_Journal_Club/blob/master/READINGS/Doolittle%20%26%20Zhaxybayeva%202010%20metagenomics%20and%20the%20units%20of%20biological%20organization.pdf)
 2. [Doolittle 2012 population genomics how bacterial species form and why they don't exist](https://github.com/HerrLab/2019_Spring_Journal_Club/blob/master/READINGS/Doolittle%202012%20population%20genomics%20how%20bacterial%20species%20form%20and%20why%20they%20don't%20exist.pdf)
 
-### **WEEK 9** 
+### **WEEK 10** 
 AGENDA:
 1. Announcements?
 2. Discuss Paper
@@ -97,7 +99,7 @@ AGENDA:
 Readings:
 1. 
 
-### **WEEK 10**
+### **WEEK 11**
 TOPIC: 
 
 AGENDA:
@@ -119,37 +121,6 @@ AGENDA:
 Readings:
 1. 
 2. 
-
-### **WEEK 12**
-TOPIC: 
-
-AGENDA:
-1. Announcements?
-2. Discuss Papers
-
-Readings:
-1. 
-2.
-
-### **WEEK 13**
-TOPIC: 
-
-AGENDA:
-1. Announcements?
-2. Discuss Paper
-3. Go over outline and writing assignments for the last week
-
-Readings:
-1. 
-
-
-### **WEEK 14**
-TOPIC: 
-
-AGENDA:
-1. Announcements?
-2. Josh wraps things up and we discuss our paper
-
 
 ### Supplemental Readings
 
