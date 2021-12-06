@@ -1,0 +1,79 @@
+Adams 2001 the species delimitation uncertainty principle.pdf
+Baetu 2012 defining species a multi-level approach.pdf
+Booth et al 2016 the modern synthesis in the light of microbial genomics REVIEW.pdf
+Brenner et al 2005 classification of prokaryotic organisms and the concept of bacterial speciation.pdf
+Brogaard 2004 Species As Individuals.pdf
+Caro-Quintero & Konstantinidis 2012 bacterial species may exist metagenomics reveal.pdf
+Chung et al 2018 using core genome alignments to assign bacterial species.pdf
+Cohan 2001 bacterial species and speciation.pdf
+Cohan 2002 what are bacterial species.pdf
+Doolittle & Papke 2006 genomics and the bacterial species problem.pdf
+Doolittle & Zhaxybayeva 2009 on the origin of prokaryotic species.pdf
+Doolittle & Zhaxybayeva 2010 metagenomics and the units of biological organization.pdf
+Doolittle 2012 population genomics how bacterial species form and why they don't exist.pdf
+Dupre 2001 in defence of classification.pdf
+Ellis & Wolf 2010 teaching species.pdf
+Ellis 2011 the problem with the species problem.pdf
+Fox et al 1992 how close is close 16S rRNA sequence identity may not be sufficient.pdf
+Fraser et al 2009 the bacterial species challenge making sense of genetic and ecological diversity.pdf
+Freudenstein et al 2017 biodiversity and the species concept lineages are not enough.pdf
+Gaston 1991 how large is a species geogrpahic range COMMENTARY.pdf
+Gevers et al 2005 re-evaluating prokaryotic species.pdf
+Ghiselin 1975 a radical solution to the species problem.pdf
+Ghiselin 1987 species concepts individuality and objectivity.pdf
+Hall & Katz 2011 On The Nature Of Species Insights from Paramecium and other ciliates.pdf
+Hanage et al 2006 sequences sequence clusters and bacterial species.pdf
+Harrington & Rizzo 1999 defining species in the fungi BOOK CHAPTER.pdf
+Haveman 2013 freakish patterns species and species concepts in apomicts.pdf
+Hendry et al 2000 Questioning Species Realities.pdf
+Hey 2001 the mind of the species problem OPINION.pdf
+Hey 2006 on the failure of modern species concepts OPINION.pdf
+Hey et al 2003 Understanding and confronting species uncertainty in biology and conservation REVIEW.pdf
+Kohn 2005 mechanisms of fungal speciation.pdf
+Konstantinidis et al 2006 the bacterial species definition in the genomic era.pdf
+Kutschera 2004 species concepts leeches versus bacteria.pdf
+Lassalle et al 2015 ecological speciation in bacteria reverse ecology approaches reveal the adaptive part of bacterial cladogenesis.pdf
+Leffler et al 2012 revisiting an old riddle what determines genetic diversity levels within species.pdf
+Leliaert et al 2014 DNA based species delimitation in algae.pdf
+Markolf et al 2011 on species delimitation yet another lemur species or just genetic variation.pdf
+Mayden 1997 a heirarchy of species concepts BOOK CHAPTER.pdf
+Mayr 1996 what is a species and what is not.pdf
+Mayr 2001 Wus genic view of speciation COMMENTARY.pdf
+Meiri & Mace 2007 new taxonomy and the origin of species COMMENTARY.pdf
+Millstein 2009 Populations As Individuals.pdf
+Morgan & Pitts 2008 evolution without species the case of mosaic bacteriophages.pdf
+Mysara et al 2017 reconciliation between operational taxonomic units and species boundaries.pdf
+Nathen & Cracraft YEAR the nature of species in evolution BOOK CHAPTER.pdf
+Ochman et al 2005 examining bacterial species under the specter of gene transfer and exchange.pdf
+Pigliucci 2003 species as family resemblance concepts the dis-solution of the species problem.pdf
+Pusic et al 2017 what do biologists make of the species problem.pdf
+Reydon 2008 species in three and four dimension.pdf
+Rossello-Mora & Amann 2001 the species concept for prokaryotes.pdf
+Rossello-Mora & Amann 2015 past and future species definitions for bacteria and archaea.pdf
+Ruffing et al 2002 an introduction to species concepts and speciciation of fishes.pdf
+Ruse 1987 biological species natural kinds individuals or what.pdf
+Saikia et al 2008 what is a species an endless debate.pdf
+Samson & Varga 2009 what is a species in Aspergillus.pdf
+Seifert & Rossman 2010 how to describe a new fungal species.pdf
+Sharma et al 2015 species concept in microbial taxonomy and systematics.pdf
+Sluys & Hazevoet 1999 pluralism in species concepts dividing nature at its diverse joints REVIEW.pdf
+Stackebrandt & Goebel 1994 a place for DNA-DNA reassociation and 16S rRNA sequence analysis in species definition.pdf
+Staley 2006 the bacterial species dilemma and the genomic-phylogenetic species concept.pdf
+Taylor et al 2000 phylogenetic species recognition and species concepts in fungi.pdf
+Taylor et al 2006 fungal species thoughts on their recognition maintenance and selection BOOK CHAPTER.pdf
+Vos 2010 a species concept for bacteria based on adaptive divergence.pdf
+Weiss 2011 the evolution of evolution reconciling the problem of stability.pdf
+Whitman 2015 genome sequences as the type material for taxonomic descriptions of prokaryotes.pdf
+Wiley 1978 the evolutionary species concept reconsidered.pdf
+Wilkins 2003 the origins of species concepts DISSERTATION.pdf
+Winker et al 2007 species-concept debates need not impede progress in science or conservation.pdf
+Yang & Zhou 2010 new insights in the species problem REVIEW.pdf
+Yin 2013 to define life and species as to demarcate the international date line.pdf
+Zachos 2016 Species Concepts In Biology BOOK.pdf
+Zinner & Roos 2014 so what is a species anyway a primatological perspective COMMENTARY.pdf
+de Quiroz 2005 Mayr and the modern concept of species.pdf
+
+Supplemental_Reading:
+Aldhebiani 2018 species concept and speciation.pdf
+Descimon & Mallet 2010 Bad Species.pdf
+wilkins-2003_origins_species_concepts.pdf

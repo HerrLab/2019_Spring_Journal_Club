@@ -24,10 +24,10 @@ Our current reading list is located here: [text](https://github.com/HerrLab/2019
 ~~March 6~~ | ~~Week 7~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~2 to 3 pm~~
 ~~March 13~~ | ~~Week 8~~ | ~~Asilomar~~ | ~~NONE~~
 ~~March 20~~ | ~~SPRING BREAK~~ | ~~NA~~ | ~~NA~~
-March 27 | Week 9 | Beadle First Floor East Side Conference Table | 2 to 3 pm
-April 3 | Week 10 | Beadle First Floor East Side Conference Table | 2 to 3 pm
-April 10 | Week 11 | Beadle First Floor East Side Conference Table | 2 to 3 pm
-April 17 | Week 12 - Course Wrap Up | Writing Retreat | 2 to 3 pm
+~~March 27~~ | ~~Week 9~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~2 to 3 pm~~
+~~April 3~~ | ~~Week 10~~ | ~~Beadle First Floor East Side Conference Table~~ | ~~2 to 3 pm~~
+~~April 10~~ | ~~Week 11 | ~~Beadle First Floor East Side Conference Table~~ | ~~2 to 3 pm~~
+~~April 17~~ | ~~Week 12 - Course Wrap Up~~ | ~~Writing Retreat~~ | ~~2 to 3 pm~~
 April 24 | Week 13 - Course Wrap Up | Writing Retreat | 2 to 3 pm
 
 ## **Schedule and Readings**
@@ -93,20 +93,15 @@ Readings:
 
 ### **WEEK 10** 
 AGENDA:
-1. Discuss Paper
-
-Readings:
-1. TBA
+1. Work on Review article
 
 ### **WEEK 11**
-TOPIC: 
-
 AGENDA:
-1. Discuss Papers
-3. Go over manuscript outline and writing duties
+1. Work on Review article
 
-Readings:
-1. TBA
+### **WEEK 12**
+AGENDA:
+1. Work on Review article
 
 ### Supplemental Readings
 
